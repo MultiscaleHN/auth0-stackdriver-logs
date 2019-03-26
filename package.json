@@ -1,0 +1,18 @@
+{
+  "name": "auth0-stackdriver-logs",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^11.11.7",
+    "typescript": "^3.3.4000"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@google-cloud/logging": "^4.5.1",
+    "auth0-extension-tools": "^1.3.3",
+    "auth0-log-extension-tools": "^1.3.6"
+  }
+}
