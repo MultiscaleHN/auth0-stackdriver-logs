@@ -1,7 +1,7 @@
 {
   "name": "auth0-stackdriver-logs",
   "version": "1.0.0",
-  "main": "build/index.js",
+  "main": "build/bundle.js",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^11.11.7",
